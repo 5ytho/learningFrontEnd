@@ -10,7 +10,7 @@ Each folder contains a complete project with a live demo and a GIF preview to sh
 
 ## 🌐 Projects & Live Previews
 
-### 📍 Sid Family Golf Club
+### 📍 Sid Family Golf Club (used with the help of sheriyans on yt) (added a feature for live weather at sfgc)
 
 <p align="center">
   <b>Preview:</b><br>
