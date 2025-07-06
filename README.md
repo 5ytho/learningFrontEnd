@@ -17,5 +17,4 @@ Each folder contains a complete project with a live demo and a GIF preview to sh
   <a href="https://your-username.github.io/learning-frontend/sid-family-golf-club/">
     <img src="./sid-family-golf-club/preview.gif" width="600" alt="Sid Family Golf Club Preview">
   </a><br>
-  <a href="https://your-username.github.io/learning-frontend/sid-family-golf-club/">🔗 Visit Live Website</a>
 </p>
