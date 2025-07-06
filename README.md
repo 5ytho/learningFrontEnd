@@ -16,6 +16,10 @@ This repo contains all the websites I’ve built as I learn HTML, CSS, and JavaS
   </a><br>
   <a href="https://5ytho.github.io/learningFrontEnd/sid-family-golf-club/">🔗 View Live Website</a>
 </p>
+<p align="center">
+  <img src="./sid-family-golf-club/preview.gif" width="600" alt="Preview GIF">
+</p>
+
 
 ---
 
