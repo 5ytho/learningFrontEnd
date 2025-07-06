@@ -8,7 +8,8 @@ This repo contains all the websites I’ve built as I learn HTML, CSS, and JavaS
 
 ## 🌐 Projects & Previews
 
-### 📍 Sid Family Golf Club
+### 📍 Sid Family Golf Club 
+#### Taken help from Sheriyans on YT, Also added a feature to see the weather of the area before playing
 
 ![preview](https://github.com/user-attachments/assets/9de56a61-5c51-47cf-95b0-5613ef3c44a8)
 
