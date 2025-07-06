@@ -10,8 +10,8 @@ This repo contains all the websites I’ve built as I learn HTML, CSS, and JavaS
 
 ### 📍 Sid Family Golf Club
 
+![preview](https://github.com/user-attachments/assets/9de56a61-5c51-47cf-95b0-5613ef3c44a8)
 
-![Uploading preview.gif…]()
 
 ---
 
