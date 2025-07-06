@@ -2,19 +2,28 @@
 
 Hey there!  
 Welcome to my **Frontend Development Learning Journey**.  
-This repository is a collection of mini websites I've built while learning HTML, CSS, and JavaScript.
-
-Each folder contains a complete project with a live demo and a GIF preview to show off what it does.
+This repo contains all the websites I’ve built as I learn HTML, CSS, and JavaScript—each with a live link and a little GIF to show it in action.
 
 ---
 
-## 🌐 Projects & Live Previews
+## 🌐 Projects & Previews
 
-### 📍 Sid Family Golf Club (used with the help of sheriyans on yt) (added a feature for live weather at sfgc)
+### 📍 Sid Family Golf Club
 
 <p align="center">
-  <b>Preview:</b><br>
-  <a href="https://your-username.github.io/learning-frontend/sid-family-golf-club/">
-    <img src="./sid-family-golf-club/preview.gif" width="600" alt="Sid Family Golf Club Preview">
+  <a href="https://5ytho.github.io/learningFrontEnd/sid-family-golf-club/">
+    <img src="sid-family-golf-club/preview.gif" alt="Preview of Sid Family Golf Club" width="600" />
   </a><br>
+  <a href="https://5ytho.github.io/learningFrontEnd/sid-family-golf-club/">🔗 View Live Website</a>
 </p>
+
+---
+
+## 🧠 Tech Stack
+
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript (Vanilla)
+- Git & GitHub
+
+---
